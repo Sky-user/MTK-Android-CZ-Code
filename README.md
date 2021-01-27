@@ -90,3 +90,13 @@
 [地表最强之Android开机动画动态替换](https://blog.csdn.net/u012932409/article/details/106146322)
 
 [地表最强之Android开机Logo动态替换(附100余款车商原厂高清logo)](https://blog.csdn.net/u012932409/article/details/106331879)
+
+[AndroidQ(10.0) MTK 开机 Logo 动态替换](https://blog.csdn.net/u012932409/article/details/112676387)
+
+## 10、Nvram 相关知识
+
+[android10.0(Q) Nvram 新增节点](https://blog.csdn.net/u012932409/article/details/110393582)
+
+[NVRAM Editor 工具使用记录](https://blog.csdn.net/u012932409/article/details/111603288)
+
+[MTK modem NVRAM 简介](https://blog.csdn.net/u012932409/article/details/113172535)
